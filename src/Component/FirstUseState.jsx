@@ -22,7 +22,7 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     height: '100vh',
-    backgroundColor: '#282c34',
+    backgroundColor: 'yellow',
     color: '#fff',
     fontFamily: 'Arial, sans-serif',
   },
