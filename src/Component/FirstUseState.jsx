@@ -5,7 +5,7 @@ function Counter() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>Tasbih: {count}</h1>
+      <h1 style={styles.title}>Confrim Jannati Hai: {count}</h1>
       <div style={styles.buttonGroup}>
         <button style={styles.button} onClick={() => setCount(count + 1)}>Inssscrement</button>
         <button style={styles.button} onClick={() => setCount(count - 1)}>Decrement</button>
